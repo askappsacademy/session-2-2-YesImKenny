@@ -1,6 +1,6 @@
 const run = function () {
-    // Exercise 2
-
+    // Exercise 2 - Change background color of Hello World to 'red'
+    document.getElementById('ptag-id').style.backgroundColor = 'red'; 
     // Exercise 3 - Extra Credit
     const fruits = ['Apple', 'Banana', 'Orange'];
     
